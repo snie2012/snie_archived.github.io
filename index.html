@@ -1,8 +1,11 @@
 ---
 layout: default
-title: Shaoliang Nie
+title: Shaoliang Nie's Blog
 ---
-<div class="blurb">
-	<h1>Hi there, I'm Shaoliang!</h1>
-	<p>I am finally here on Github page wiht Jekyll!</p>
-</div><!-- /.blurb -->
+<h1>{{ page.title }}</h1>
+<ul class="posts">
+
+  {% for post in site.posts %}
+    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
