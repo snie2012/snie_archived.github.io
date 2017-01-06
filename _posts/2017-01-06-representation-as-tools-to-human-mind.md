@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Languages, mathematical notations, graphics are all representations, with which..."
+title: "Languages, mathematical notations, graphics are all representations, which..."
 date: 2017-01-06
 comments: false
 excerpt: Languages, mathematical notations, graphics are all representations, which allows development of complex ideas.
