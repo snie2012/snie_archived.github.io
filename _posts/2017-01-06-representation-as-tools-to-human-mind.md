@@ -19,5 +19,7 @@ When we think, there is always a representation. Thinking and representation are
 But the existing representations are limited and constrained. While they allow us to stretch out minds, it is to limited extent. In this new era with all kinds of modern technology, it is time to explore, discover and invent new representations to further extend human mind.
 
 [Bret Victor, The human representation of thought](http://worrydream.com/#!/TheHumaneRepresentationOfThoughtTalk)
+
 [Bret Victor, Meadia for thinking the unthinkable](http://worrydream.com/#!/MediaForThinkingTheUnthinkable/note.html)
+
 [Jon Norman, Things that make us smart](https://en.wikipedia.org/wiki/Don_Norman)
