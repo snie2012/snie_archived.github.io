@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Languages, mathematical notations, graphics are all representations, with which..."
+date: 2017-01-06
+comments: false
+excerpt: Languages, mathematical notations, graphics are all representations, with which complex ideas can be developed.
+---
+
+Languages, mathematical notations, graphics are all representations, with which complex ideas can be developed.
+
+How people think? How is powerful and complex thinking possible? Only with representations and tools as extensions of human brain can we develop all these complex ideas.
+
+How does human understand, discover, create? 
+
+The goal is to understand the process of how human understand, discover and create. Based on these understandings, we can build better tools to facilitate this process. So we can empower human thinking with more humane and powerful representations, using the technology only becoming available in modern times.
+
+When we think, there is always a representation. Thinking and representation is inseparable. Without language, notation, symbol, graphics, human cannot think.
+
+But the existing representation are limited and constrained. While they allow us to stretch out minds to a much greater extent, it is a limited extent. In this new era with all kinds of modern technology, it is time to explore, discover and invent new representations to further extend human mind.
