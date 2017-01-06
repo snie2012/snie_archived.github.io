@@ -3,17 +3,21 @@ layout: post
 title: "Languages, mathematical notations, graphics are all representations, with which..."
 date: 2017-01-06
 comments: false
-excerpt: Languages, mathematical notations, graphics are all representations, with which complex ideas can be developed.
+excerpt: Languages, mathematical notations, graphics are all representations, which allows development of complex ideas.
 ---
 
-Languages, mathematical notations, graphics are all representations, with which complex ideas can be developed.
+Languages, mathematical notations, graphics are all representations, which allows development of complex ideas.
 
-How people think? How is powerful and complex thinking possible? Only with representations and tools as extensions of human brain can we develop all these complex ideas.
+How people think? How is powerful and complex thinking possible? Only using representations and tools as extensions of human brain can it be possible.
 
-How does human understand, discover, create? 
+How does human understand, discover and create? 
 
-The goal is to understand the process of how human understand, discover and create. Based on these understandings, we can build better tools to facilitate this process. So we can empower human thinking with more humane and powerful representations, using the technology only becoming available in modern times.
+The goal is to understand the process of how human understand, discover and create. Based on these understandings, we can build better tools to facilitate this process. So we can empower human thinking with more humane and powerful representations, using the technology only available in modern times.
 
-When we think, there is always a representation. Thinking and representation is inseparable. Without language, notation, symbol, graphics, human cannot think.
+When we think, there is always a representation. Thinking and representation are inseparable. Without language, notation, symbol or graphics, human cannot think properly.
 
-But the existing representation are limited and constrained. While they allow us to stretch out minds to a much greater extent, it is a limited extent. In this new era with all kinds of modern technology, it is time to explore, discover and invent new representations to further extend human mind.
+But the existing representations are limited and constrained. While they allow us to stretch out minds, it is to limited extent. In this new era with all kinds of modern technology, it is time to explore, discover and invent new representations to further extend human mind.
+
+[Bret Victor, The human representation of thought](http://worrydream.com/#!/TheHumaneRepresentationOfThoughtTalk)
+[Bret Victor, Meadia for thinking the unthinkable](http://worrydream.com/#!/MediaForThinkingTheUnthinkable/note.html)
+[Jon Norman, Things that make us smart](https://en.wikipedia.org/wiki/Don_Norman)
