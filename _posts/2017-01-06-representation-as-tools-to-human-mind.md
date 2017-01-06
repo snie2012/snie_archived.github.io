@@ -20,6 +20,6 @@ But the existing representations are limited and constrained. While they allow u
 
 [Bret Victor, The human representation of thought](http://worrydream.com/#!/TheHumaneRepresentationOfThoughtTalk)
 
-[Bret Victor, Meadia for thinking the unthinkable](http://worrydream.com/#!/MediaForThinkingTheUnthinkable/note.html)
+[Bret Victor, Media for thinking the unthinkable](http://worrydream.com/#!/MediaForThinkingTheUnthinkable/note.html)
 
 [Jon Norman, Things that make us smart](https://en.wikipedia.org/wiki/Don_Norman)
