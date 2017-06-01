@@ -12,3 +12,5 @@ kramdown:
 
 gems: [jekyll-paginate]
 paginate: 15
+
+theme: jekyll-theme-hacker
