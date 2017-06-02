@@ -158,3 +158,12 @@ body {
     width: 42rem;
   }
 }
+
+
+#projects {
+  overflow-y: auto;
+}
+
+img {
+  height: 100px;
+}
