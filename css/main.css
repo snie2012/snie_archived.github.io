@@ -32,7 +32,7 @@ body {
 body {
   color: #fff;
   text-align: center;
-  text-shadow: 0 .05rem .1rem rgba(0,0,0,.5);
+  /*text-shadow: 0 .05rem .1rem rgba(0,0,0,.5);*/
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
@@ -159,11 +159,16 @@ body {
   }
 }
 
-
-#projects {
-  overflow-y: auto;
-}
-
 img {
   height: 100px;
+}
+
+.list-group-item {
+  margin: 6px;
+  background-color: #bbb;
+  border-radius: 0.25rem;
+}
+
+.card-text {
+  color: black;
 }
