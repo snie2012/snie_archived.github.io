@@ -6,9 +6,7 @@ permalink: /research/
 <div class="posts">
   {% for research in site.categories.research %}
     <article class="post">
-
-      <h1><a href="{{ research.purl }}">{{ research.title }}</a></h1>
-
+      <h5>{{ research.title }}</h5>
       <div class="entry">
         {{ research.excerpt }}
       </div>
