@@ -6,12 +6,18 @@ permalink: /projects/
 <div class="posts">
   {% for project in site.categories.projects %}
     <article class="post">
+      <div class="row">
+	    <div class="col-4">
+	      <img src="{{ project.image }}" class="img-fluid" alt="Responsive image">
+	    </div>
+	    <div class="col-6">
+	      <h5><a href="{{ project.purl }}">{{ project.title }}</a></h5>
 
-      <h5><a href="{{ project.purl }}">{{ project.title }}</a></h5>
-
-      <div class="entry">
-        {{ project.excerpt }}
-      </div>
+	      <div class="entry">
+	        {{ project.excerpt }}
+	      </div>
+	    </div>
+	  </div>
     </article>
   {% endfor %}
 </div>

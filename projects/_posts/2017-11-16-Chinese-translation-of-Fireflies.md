@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Chinese translation of Nicky Case's Fireflies
+image: https://raw.githubusercontent.com/snie2012/snie2012.github.io/master/images/projects/fireflies.png
 purl: http://ncase.me/fireflies-zh/
 ---
 
