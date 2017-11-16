@@ -1,5 +1,5 @@
 ---
 layout: research
-title: To be updated
+title: Visualizing Convolutional Neural Networks (CNNs) for Text Analytics  
 purl: 
 ---
