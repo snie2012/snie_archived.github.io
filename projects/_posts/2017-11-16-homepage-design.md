@@ -1,7 +1,7 @@
 ---
 layout: project
 title: A proof of concept homepage design
-image: https://raw.githubusercontent.com/snie2012/snie2012.github.io/master/images/projects/homepage-design.png
+image: https://raw.githubusercontent.com/snie2012/snie2012.github.io/master/images/projects/homepage.png
 purl: https://snie2012.github.io/homepage-concept/
 ---
 
