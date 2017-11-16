@@ -1,0 +1,17 @@
+---
+layout: default
+permalink: /research/
+---
+
+<div class="posts">
+  {% for research in site.categories.research %}
+    <article class="post">
+
+      <h1><a href="{{ research.purl }}">{{ research.title }}</a></h1>
+
+      <div class="entry">
+        {{ research.excerpt }}
+      </div>
+    </article>
+  {% endfor %}
+</div>

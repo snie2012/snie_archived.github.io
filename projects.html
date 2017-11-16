@@ -1,0 +1,17 @@
+---
+layout: default
+permalink: /projects/
+---
+
+<div class="posts">
+  {% for project in site.categories.projects %}
+    <article class="post">
+
+      <h1><a href="{{ project.purl }}">{{ project.title }}</a></h1>
+
+      <div class="entry">
+        {{ project.excerpt }}
+      </div>
+    </article>
+  {% endfor %}
+</div>
