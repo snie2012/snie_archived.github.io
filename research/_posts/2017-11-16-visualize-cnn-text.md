@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: research
 title: To be updated
 purl: 
 ---
