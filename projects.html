@@ -9,7 +9,13 @@ permalink: /projects/
       <div class="row">
       	<div class="col-1"></div>
 	    <div class="col-4">
-	      <img src="{{ project.image }}" class="img-fluid" alt="Responsive image">
+	    	{% if project.type == "image" %}
+				<img src="{{ project.image }}" class="img-fluid" alt="Responsive image">
+			{% else %}
+				<iframe width="420" height="315"
+					src="{{ project.video }}">
+				</iframe>
+			{% endif %}
 	    </div>
 	    <div class="col-1"></div>
 	    <div class="col-6">
