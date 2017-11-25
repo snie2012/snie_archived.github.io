@@ -6,4 +6,4 @@ purl: https://www.youtube.com/watch?v=PQCdkoaU6no
 type: image
 ---
 
-Qbert implemented in WebGL with audio, animation and interaction.
+[Qbert](https://en.wikipedia.org/wiki/Q*bert) implemented in WebGL with audio, animation and interaction.

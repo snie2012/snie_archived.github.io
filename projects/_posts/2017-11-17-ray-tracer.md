@@ -6,4 +6,4 @@ purl: https://snie2012.github.io/ray-tracer/
 type: image
 ---
 
-A simple ray tracer implemeted in Javascript.
+A simple [ray tracer](https://en.wikipedia.org/wiki/Ray_tracing_(graphics)) implemeted in Javascript.

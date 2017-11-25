@@ -6,4 +6,4 @@ purl: https://snie2012.github.io/visualizing-leetcode/
 type: image
 ---
 
-A visualization intended to illustrate a BFS solution of the perfect square problem on Leetcode.
+A visualization intended to illustrate a [BFS](https://en.wikipedia.org/wiki/Breadth-first_search) solution of the perfect square problem on Leetcode.
