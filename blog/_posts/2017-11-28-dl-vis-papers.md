@@ -2,8 +2,6 @@
 layout: post
 title: Survey Recent Publications on Visualizing Deep Neural Networks
 ---
-(More material will be added to this post)
-
 The visualization research community has published a number of papers on the topic of visualizing and understanding deep neural networks. This article provides an overview of these publications.
 
 [LSTMVis](http://lstm.seas.harvard.edu) provides a pretty neat visualization tool to study the hidden states in RNNs. It visualizes the change of hidden states over time as parallel coordinates. Users can observe the shape of hidden states, select a range of inputs and a threshold on hidden state values as the formulation of a hypothesis. The tool then matches inputs with similar hidden states patterns to support refinement of hypothesis. External linguistic information can be overlaid on the matched inputs to validate hypothesis. This tool is great for exploration in the sense that it lets users to freely formulate, refine and validate hypothesis with minimum restriction. It is open sourced and hosted online, go and play!
@@ -13,3 +11,5 @@ The visualization research community has published a number of papers on the top
 Dimensionality reduction is a popular and effective technique to reveal facets of the strcuture of the hidden representations learned by deep networks. [This paper]() employs t-SNE to study (1) the relationship between learned representations of observations (2) the relationship between artificial neurons. It exposes interesting patterns of the learned representations of a model as well as how the representations evolve during training. Google's [Embedding Projector](http://projector.tensorflow.org) provides a platform to easily plugin data, model and dimensionality reduction techniques to visualize 2-D or 3-D projections. A more in-depth exploration of t-SNE can be found in this [Distill publication](https://distill.pub/2016/misread-tsne/).
 
 Most of these papers are forms of [design study](http://ieeexplore.ieee.org/document/6327248/). They first identify problems in the deep learning domain that are suitable for a visualization solution, then design and implement commensurate visual analysis tools. Right now, each paper characterizes a different set of problems in the domain. I think the community will benefit from synthesizing these problems into a standard set of shared recognition. Later design study can use the set as a reference to either facilitate identifying problems or add new elements to the set. Other types of work can focus on (1) how to transform these problems into visualization tasks (2) invent techniques and design systems to tackle these tasks.
+
+(More material will be added to this post)
