@@ -7,3 +7,5 @@ We try to interpret machine learning models to make them more human understandab
 
 Quoting from George Box:
 > All models are wrong but some are useful.
+The same thing can be said about interpretation and understanding:
+> All interpretations/understandings are wrong but some are useful.
