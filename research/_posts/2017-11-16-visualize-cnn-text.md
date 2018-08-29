@@ -10,4 +10,3 @@ purl:
 * Scaled to large networks by **clustering, compression** and **summarization**
 * Revealed multiple patterns that facilitated deep learning researchers to understand and improve the performance of multiple **part-of-speech classification models**
 * Implemented with [d3](https://d3js.org), [Flask](http://flask.pocoo.org) and [TensorFlow](https://www.tensorflow.org)
-* Paper accepted to [PacificVis 2018](http://itolab.is.ocha.ac.jp/pvis2018/)
