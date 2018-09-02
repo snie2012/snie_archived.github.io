@@ -1,0 +1,19 @@
+---
+layout: default
+permalink: /collections/
+---
+
+<div class="posts">
+  {% for collection in site.categories.collections %}
+    <article class="collection">
+
+      <h4><a href="{{ site.baseurl }}{{ collection.url }}">{{ collection.title }}</a></h4>
+
+      <div class="entry">
+        {{ collection.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ collection.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
